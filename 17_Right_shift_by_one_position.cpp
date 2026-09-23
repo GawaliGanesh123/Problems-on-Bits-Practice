@@ -12,7 +12,7 @@ Output- Right Shift : 4
 
 #include<iostream>
 using namespace std;
-
+ 
 int main()
 {
     int iValue = 0;
