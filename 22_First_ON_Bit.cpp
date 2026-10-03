@@ -16,7 +16,7 @@ using namespace std;
 int FirstONBit(int iNo)
 {
     int iPos = 1;
-
+ 
     while(iNo != 0)
     {
         if((iNo & 1) == 1)
@@ -45,3 +45,6 @@ int main()
     
     return 0;
 }
+
+
+
